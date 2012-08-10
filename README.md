@@ -89,5 +89,5 @@ Thanks go to
 
 * <a href="http://mojang.com">Mojang</a> for creating a great game
 * The <a href="http://www.minecraftwiki.net/wiki/Enchantment_Mechanics">Minecraft Wiki page on Enchantment Mechanics</a> to give a good overview and guideline
-* The <a href="http://mcp.ocean-labs.de/index.php/MCP_Releases">Minecraft Code Pack</a> team to allow insights that would not have been easily obtainable otherwise
+* The <a href="http://mcp.ocean-labs.de/index.php/MCP_Releases">Minecraft Coder Pack</a> team to allow insights that would not have been easily obtainable otherwise
  
